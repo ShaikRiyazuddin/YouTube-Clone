@@ -43,8 +43,8 @@ YouTube is a video sharing service where users can watch, like, share, comment a
   <h1>Glimps of our work</h1>
   <hr>
   <div>
-  <img style="width:100%" src="https://ibb.co/cTrVCGH"><img src="https://i.ibb.co/j4rsWc2/Screenshot-283.png"/>
-    <img style="width:100%" src="https://ibb.co/rwKsNfz"><img src="https://i.ibb.co/fxVvLGy/Screenshot-285.png"/>
+  <img style="width:100%" src="https://i.ibb.co/j4rsWc2/Screenshot-283.png"/>
+    <img style="width:100%" src="https://i.ibb.co/fxVvLGy/Screenshot-285.png"/>
         </div>
     
 </div>
