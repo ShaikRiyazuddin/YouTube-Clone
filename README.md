@@ -3,14 +3,14 @@ This is the clone of Youtube.com. You can find the project demo <a href=" https:
 <h1>Table of contents</h1>
 <hr>
 <ul>
-  <a href="#pantaloons"><li>Basic inference about the company</li></a>
+  <a href="#youtube"><li>Basic inference about the App</li></a>
   <a href="#tech"><li>Frameworks Used</li></a>
   <a href="#feat"><li>Added Features</li></a>
   <a href="#con"><li>Contributors</li></a>
   <a href="#glimps"><li>Glimps of our work</li></a>
 </ul>
-<div id="pantaloons">
-  <h1>Basic inference about the company</h1>
+<div id="youtube">
+  <h1>Basic inference about the App</h1>
   <hr>
 YouTube is a video sharing service where users can watch, like, share, comment and upload their own videos. The video service can be accessed on PCs, laptops, tablets and via mobile phones.
   <div>
